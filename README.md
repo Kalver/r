@@ -1,4 +1,4 @@
- .::<em>Uraian Langkah</em>::. 
+#.::<em>Uraian Langkah</em>::. 
 
 1.Masukan nilai a</br>
 2.Masukan nilai a</br>
@@ -14,8 +14,6 @@
 	 maka bilangan terbesar nya adalah bilangan "c"
 	 
 .::Rizki Nurdiansyah::.
-
 :::    311910155	:::
-
 `::____TI.19.D.2____::`
 	
