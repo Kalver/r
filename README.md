@@ -1,4 +1,4 @@
-<strong>.::Uraian Langkah ::. </strong>
+# Uraian Langkah 
 
 1.Masukan nilai a</br>
 2.Masukan nilai a</br>
