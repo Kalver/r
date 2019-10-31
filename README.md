@@ -1,4 +1,4 @@
- .::<em><font color="green" size="4">Uraian Langkah</font></em>::. 
+ .::<em>Uraian Langkah</em>::. 
 
 1.Masukan nilai a</br>
 2.Masukan nilai a</br>
